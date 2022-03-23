@@ -7,21 +7,27 @@ To install all necessary libraries:
 
 ## Usage
 * To install weights:
+
 `bash data/scripts/download_weights.sh`
 
 * To get CoCo dataset:
+
 `bash data/scripts/get_coco.sh`
 
 * For training:
+
 `python3 train.py --data coco128.yaml --weights yolov5s.pt --img 640 --epochs 300`
 
 * For testing:
+
 `python3 test.py --data coco128.yaml --weights yolov5s.pt --img 640`
 
 * To detect objects in a specified images given model's weights:
+
 `python3 detect.py --source path/to/img.jpg --weights yolov5s.pt --img 640`
 
 * To play with videos: (e.g. webcam):
+
 `python3 detect_video.py --source 0 --weights yolov5s.pt --img 640`
 
 ### Acknowledgement
