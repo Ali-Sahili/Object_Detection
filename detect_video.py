@@ -1,7 +1,7 @@
 """Run inference with a YOLOv5 model on videos
 
 Usage:
-    $ python path/to/detect_video.py --source path/to/video.mp4 --weights yolov5s.pt --img 640
+    $ python3 path/to/detect_video.py --source path/to/video.mp4 --weights yolov5s.pt --img 640
     $ python3 detect_video.py --source 0 --weights yolov5s.pt --img 640
 """
 
