@@ -1,3 +1,4 @@
+![Object Detection](https://img.shields.io/static/v1?style=plastic&message=Object+Detection&color=222222&logo=Object+Detection&logoColor=00FFFF&label=)
 ![YOLO v5](https://img.shields.io/static/v1?style=plastic&message=YOLO&color=222222&logo=YOLO&logoColor=00FFFF&label=)
 
 # Object_Detection
