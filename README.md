@@ -1,4 +1,4 @@
-![YOLO](https://img.shields.io/static/v1?style=plastic&message=YOLO&color=222222&logo=YOLO&logoColor=00FFFF&label=)
+![YOLO v5](https://img.shields.io/static/v1?style=plastic&message=YOLO&color=222222&logo=YOLO&logoColor=00FFFF&label=)
 
 # Object_Detection
 Implementation of YOLO-v5 algorithm to detect multiple objects on both images and streaming
